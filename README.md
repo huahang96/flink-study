@@ -1,2 +1,2 @@
 # flink-study
-for flink study
+用来学习Flink
